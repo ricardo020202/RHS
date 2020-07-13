@@ -1,0 +1,102 @@
+.logo{
+    width: 150px;
+}
+.logo2{
+    width: 200px;
+}
+.color{
+    background-color: #91c73d;
+}
+.btn{
+    background-color: #91c73d;
+
+}
+.btn:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+.btn2{
+    background-color: #91c73d;
+    width: 100%;
+}
+.btn2:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+.btn3{
+    background-color: #F9A01B;
+}
+.btn3:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+.footer{
+    background-color: #414141;
+}
+.stripe{
+    background-color: #E8E6E6;
+}
+.espacio-xc{
+    background-color: transparent;
+    height: 50px;
+}
+.espacio-ch{
+    background-color: transparent;
+    height: 100px;
+}
+.espacio-m{
+    background-color: transparent;
+    height: 200px;
+}
+.espacio-g{
+    background-color: transparent;
+    height: 300px;
+}
+.tamaño{
+    width: 60px;
+    height: 60px;
+}
+.alineamiento{
+    display: flex;
+    justify-content: center;
+}
+.Capacitaciones{
+    width: 95%;
+}
+.wLogo{
+    width: 40px;
+    height: 40px;
+}
+.imagenes{
+    width: 70%;
+}
+.lineaVerde{
+    width: 100%;
+    height: 40px;
+}
+li{
+    list-style: none;
+
+}
+.li2{
+    list-style: square;
+
+}
+.icono1{
+    width: 30px;
+    height: 30px;
+}
+.icono2{
+    width: 40px;
+    height: 30px;
+}
+.card{
+    border: none;
+}
+.bullet{
+    width: 60px;
+    height: 60px;
+}
+.back{
+    background-color: #999997;
+}
